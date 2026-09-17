@@ -12,7 +12,11 @@ Hecha 100% en Swift + SwiftUI, sin dependencias externas.
 
 ### Capturas de pantalla
 
-<!-- Arrastra aquí tus imágenes al editar este archivo desde la web de GitHub -->
+<img width="736" height="938" alt="image" src="https://github.com/user-attachments/assets/55f51efd-f312-47da-b89b-71911955c8d3" />
+
+<img width="629" height="791" alt="image" src="https://github.com/user-attachments/assets/0ed0c7dc-695d-4a2c-8767-f52e1ea1d19c" />
+
+<img width="630" height="403" alt="image" src="https://github.com/user-attachments/assets/6ea75683-d3f5-4549-800d-78d784f975db" />
 
 ### Características
 
@@ -66,7 +70,11 @@ Built 100% with Swift + SwiftUI, no external dependencies.
 
 ### Screenshots
 
-<!-- Drag your images here while editing this file from the GitHub web UI -->
+<img width="736" height="938" alt="image" src="https://github.com/user-attachments/assets/55f51efd-f312-47da-b89b-71911955c8d3" />
+
+<img width="629" height="791" alt="image" src="https://github.com/user-attachments/assets/0ed0c7dc-695d-4a2c-8767-f52e1ea1d19c" />
+
+<img width="630" height="403" alt="image" src="https://github.com/user-attachments/assets/6ea75683-d3f5-4549-800d-78d784f975db" />
 
 ### Features
 
